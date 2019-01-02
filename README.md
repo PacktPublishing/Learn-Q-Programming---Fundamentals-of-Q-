@@ -12,22 +12,21 @@ The audience for this book are programmers and developers interested in learning
 ## Short Description
 This book covers the fundamentals of quantum computing and programming with Microsoft’s Q# language. They The reader will learn how to design, test and debug algorithms for different quantum applications.
 ## Long Description
-The primary focus of this book will be to give the audience an idea about how to get started with the concepts of quantum computing, different aspects and theories of quantum computing operations, algorithms etc. Through this book, the developer will get a basic idea about the Microsoft Quantum Tool Kit and how to use the embedded Q# language. This will enable the reader to formalise and convert different real world problems to quantum algorithms and optimize them to use with a future quantum computer. 
-By the end of the book you would have successfully learned to create quantum programs of your own.
+The primary focus of this book will be to give the audience an idea about how to get started with the concepts of quantum computing, different aspects and theories of quantum computing operations, algorithms etc. Through this book, the developer will get a basic idea about the Microsoft Quantum Tool Kit and how to use the embedded Q# language. This will enable the reader to formalise and convert different real world problems to quantum algorithms and optimize them to use with a future quantum computer. By the end of the book you would have successfully learned to create quantum programs of your own.
 
 ## Key Features
-1.Introduction to Quantum Computing 
-2.Deep Dive into Q#
-3.Quantum Applications and Algorithms 
+1. Introduction to Quantum Computing 
+2. Deep Dive into Q#
+3. Quantum Applications and Algorithms 
 
 ## What you will learn?
-1.The book will enable the reader to understand the basics of quantum computing in a nutshell
-2.The reader will be able to understand the underlying mechanism of quantum gates and operations
-3.The reader will familiarise themselves with different aspects of Q# language and how to use them for quantum programming
-4.The reader will learn to implement different libraries and subroutines in Q# languages and how to use them for quantum computing applications.
-5.With meaningful examples, the reader will be able to code, debug and perfect quantum algorithms for real life applications.
+1. The book will enable the reader to understand the basics of quantum computing in a nutshell
+2. The reader will be able to understand the underlying mechanism of quantum gates and operations
+3. The reader will familiarise themselves with different aspects of Q# language and how to use them for quantum programming
+4. The reader will learn to implement different libraries and subroutines in Q# languages and how to use them for quantum computing applications.
+5. With meaningful examples, the reader will be able to code, debug and perfect quantum algorithms for real life applications.
 ## Metadescription
-Explore Golang’s Data Structures and Algorithms that will help you Design, Implement, and Analyze Code in Practical/Professional setting.
+Explore Q# language and libraries that will help you Design, Implement, and Analyze Code in Practical/Professional setting.
 
 ## Author Bio
 
