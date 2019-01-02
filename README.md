@@ -10,7 +10,7 @@ Learn the fundamentals of Q# to and create your first quantum programs
 ## Target Audience 
 The audience for this book are programmers and developers interested in learning quantum computing. Programmers and developers with expertise in basic programming languages like C/C++, Python, and C# would like to extend their experience to quantum computing will be interested in reading this book.
 ## Short Description
-This book covers the fundamentals of quantum computing and programming with Microsoft’s Q# language. They The reader will learn how to design, test and debug algorithms for different quantum applications.
+This book covers the fundamentals of quantum computing and programming with Microsoft’s Q# language. The reader will learn how to design, test and debug algorithms for different quantum applications.
 ## Long Description
 The primary focus of this book will be to give the audience an idea about how to get started with the concepts of quantum computing, different aspects and theories of quantum computing operations, algorithms etc. Through this book, the developer will get a basic idea about the Microsoft Quantum Tool Kit and how to use the embedded Q# language. This will enable the reader to formalise and convert different real world problems to quantum algorithms and optimize them to use with a future quantum computer. By the end of the book you would have successfully learned to create quantum programs of your own.
 
