@@ -921,11 +921,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bhagvan.kommadi/Desktop/packt/Q#/BellHello/BellHello.csproj",
-      "projectName": "BellHello",
-      "projectPath": "/Users/bhagvan.kommadi/Desktop/packt/Q#/BellHello/BellHello.csproj",
+      "projectUniqueName": "/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/Hello.csproj",
+      "projectName": "Hello",
+      "projectPath": "/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/Hello.csproj",
       "packagesPath": "/Users/bhagvan.kommadi/.nuget/packages/",
-      "outputPath": "/Users/bhagvan.kommadi/Desktop/packt/Q#/BellHello/obj/",
+      "outputPath": "/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

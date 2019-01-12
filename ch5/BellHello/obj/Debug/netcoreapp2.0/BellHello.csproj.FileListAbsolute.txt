@@ -1,4 +1,0 @@
-/Users/bhagvan.kommadi/Desktop/packt/Q#/BellHello/obj/Debug/netcoreapp2.0/BellHello.csprojAssemblyReference.cache
-/Users/bhagvan.kommadi/Desktop/packt/Q#/BellHello/obj/Debug/netcoreapp2.0/BellHello.csproj.CoreCompileInputs.cache
-/Users/bhagvan.kommadi/Desktop/packt/Q#/BellHello/obj/Debug/netcoreapp2.0/BellHello.AssemblyInfoInputs.cache
-/Users/bhagvan.kommadi/Desktop/packt/Q#/BellHello/obj/Debug/netcoreapp2.0/BellHello.AssemblyInfo.cs

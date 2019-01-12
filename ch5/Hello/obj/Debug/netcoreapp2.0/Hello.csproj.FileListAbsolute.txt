@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/bin/Debug/netcoreapp2.0/Hello.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/bin/Debug/netcoreapp2.0/Hello.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/bin/Debug/netcoreapp2.0/Hello.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/obj/Debug/netcoreapp2.0/Hello.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/obj/Debug/netcoreapp2.0/Hello.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/obj/Debug/netcoreapp2.0/Hello.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Hello/obj/Debug/netcoreapp2.0/Hello.pdb
