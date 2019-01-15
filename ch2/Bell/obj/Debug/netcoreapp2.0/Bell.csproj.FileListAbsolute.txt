@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
