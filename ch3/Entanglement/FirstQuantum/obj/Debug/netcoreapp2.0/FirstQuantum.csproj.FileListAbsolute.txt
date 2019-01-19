@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/bin/Debug/netcoreapp2.0/FirstQuantum.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/bin/Debug/netcoreapp2.0/FirstQuantum.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/bin/Debug/netcoreapp2.0/FirstQuantum.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/bin/Debug/netcoreapp2.0/FirstQuantum.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/bin/Debug/netcoreapp2.0/FirstQuantum.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/obj/Debug/netcoreapp2.0/FirstQuantum.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/obj/Debug/netcoreapp2.0/FirstQuantum.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/obj/Debug/netcoreapp2.0/FirstQuantum.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/obj/Debug/netcoreapp2.0/FirstQuantum.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/obj/Debug/netcoreapp2.0/FirstQuantum.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#/FirstQuantum/obj/Debug/netcoreapp2.0/FirstQuantum.pdb
