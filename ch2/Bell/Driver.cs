@@ -1,9 +1,12 @@
-﻿using System;
+/////////////////////////////////////////////////////////////////////
+// This file contains the driver class.
+//////////////////////////////////////////////////////////////////////
+using System;
 
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.Simulation.Simulators;
 
-namespace Bell 
+namespace Bell
 {
     class Driver
     {

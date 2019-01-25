@@ -3,6 +3,18 @@ namespace Bell
     open Microsoft.Quantum.Primitive;
     open Microsoft.Quantum.Canon;
 
+    /// Set Operation
+    /// # Summary
+    /// sets the Qubit with desired value.
+    /// # Parameters
+    /// ## desired
+    /// desired parameter of Result type
+    /// ## q1
+    /// qubit
+    ///
+    /// # Returns
+    /// unit
+
     operation Set (desired: Result, q1: Qubit) : Unit
     {
         let current = M(q1);
@@ -12,6 +24,17 @@ namespace Bell
         }
     }
 
+    /// BellTest Operation
+    /// # Summary
+    /// Bell Test
+    /// # Parameters
+    /// ## count
+    /// count of tests
+    /// ## initial
+    /// initial value of qubit
+    ///
+    /// # Returns
+    /// number of ones and zeros (tuple of int and int)
     operation BellTest (count : Int, initial: Result) : (Int, Int)
     {
         mutable numOnes = 0;
@@ -34,5 +57,5 @@ namespace Bell
         return (count-numOnes, numOnes);
     }
 
-    
+
 }
