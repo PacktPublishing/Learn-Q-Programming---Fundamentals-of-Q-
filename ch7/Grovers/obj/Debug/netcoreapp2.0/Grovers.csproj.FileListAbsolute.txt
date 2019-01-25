@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/bin/Debug/netcoreapp2.0/Grovers.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/bin/Debug/netcoreapp2.0/Grovers.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/bin/Debug/netcoreapp2.0/Grovers.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/bin/Debug/netcoreapp2.0/Grovers.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/bin/Debug/netcoreapp2.0/Grovers.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/obj/Debug/netcoreapp2.0/Grovers.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/obj/Debug/netcoreapp2.0/Grovers.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/obj/Debug/netcoreapp2.0/Grovers.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/obj/Debug/netcoreapp2.0/Grovers.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/obj/Debug/netcoreapp2.0/Grovers.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Grover/Grovers/obj/Debug/netcoreapp2.0/Grovers.pdb

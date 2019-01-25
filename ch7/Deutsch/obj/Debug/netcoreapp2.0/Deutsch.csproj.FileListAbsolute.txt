@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/bin/Debug/netcoreapp2.0/Deutsch.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/bin/Debug/netcoreapp2.0/Deutsch.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/bin/Debug/netcoreapp2.0/Deutsch.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/bin/Debug/netcoreapp2.0/Deutsch.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/bin/Debug/netcoreapp2.0/Deutsch.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/obj/Debug/netcoreapp2.0/Deutsch.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/obj/Debug/netcoreapp2.0/Deutsch.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/obj/Debug/netcoreapp2.0/Deutsch.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/obj/Debug/netcoreapp2.0/Deutsch.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/obj/Debug/netcoreapp2.0/Deutsch.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Deutsch/Deutsch/obj/Debug/netcoreapp2.0/Deutsch.pdb

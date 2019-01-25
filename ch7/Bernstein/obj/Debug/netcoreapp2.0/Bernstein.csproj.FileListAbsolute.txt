@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/obj/Debug/netcoreapp2.0/Bernstein.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/obj/Debug/netcoreapp2.0/Bernstein.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/bin/Debug/netcoreapp2.0/Bernstein.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/bin/Debug/netcoreapp2.0/Bernstein.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/bin/Debug/netcoreapp2.0/Bernstein.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/bin/Debug/netcoreapp2.0/Bernstein.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/bin/Debug/netcoreapp2.0/Bernstein.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/obj/Debug/netcoreapp2.0/Bernstein.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/obj/Debug/netcoreapp2.0/Bernstein.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/obj/Debug/netcoreapp2.0/Bernstein.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter7/Bernstein/Bernstein/obj/Debug/netcoreapp2.0/Bernstein.pdb
