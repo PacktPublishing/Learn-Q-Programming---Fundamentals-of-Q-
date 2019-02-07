@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/bin/Debug/netcoreapp2.0/IfCondition.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/bin/Debug/netcoreapp2.0/IfCondition.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/bin/Debug/netcoreapp2.0/IfCondition.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/bin/Debug/netcoreapp2.0/IfCondition.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/bin/Debug/netcoreapp2.0/IfCondition.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/obj/Debug/netcoreapp2.0/IfCondition.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/obj/Debug/netcoreapp2.0/IfCondition.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/obj/Debug/netcoreapp2.0/IfCondition.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/obj/Debug/netcoreapp2.0/IfCondition.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/obj/Debug/netcoreapp2.0/IfCondition.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/IfCondition/obj/Debug/netcoreapp2.0/IfCondition.pdb

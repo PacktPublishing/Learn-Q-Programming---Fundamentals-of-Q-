@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/bin/Debug/netcoreapp2.0/Switch.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/bin/Debug/netcoreapp2.0/Switch.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/bin/Debug/netcoreapp2.0/Switch.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/bin/Debug/netcoreapp2.0/Switch.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/bin/Debug/netcoreapp2.0/Switch.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/obj/Debug/netcoreapp2.0/Switch.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/obj/Debug/netcoreapp2.0/Switch.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/obj/Debug/netcoreapp2.0/Switch.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/obj/Debug/netcoreapp2.0/Switch.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/obj/Debug/netcoreapp2.0/Switch.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/Switch/obj/Debug/netcoreapp2.0/Switch.pdb

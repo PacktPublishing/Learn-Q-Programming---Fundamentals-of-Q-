@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/bin/Debug/netcoreapp2.0/NestedIfElse.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/bin/Debug/netcoreapp2.0/NestedIfElse.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/bin/Debug/netcoreapp2.0/NestedIfElse.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/bin/Debug/netcoreapp2.0/NestedIfElse.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/bin/Debug/netcoreapp2.0/NestedIfElse.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/obj/Debug/netcoreapp2.0/NestedIfElse.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/obj/Debug/netcoreapp2.0/NestedIfElse.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/obj/Debug/netcoreapp2.0/NestedIfElse.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/obj/Debug/netcoreapp2.0/NestedIfElse.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/obj/Debug/netcoreapp2.0/NestedIfElse.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedIfElse/obj/Debug/netcoreapp2.0/NestedIfElse.pdb

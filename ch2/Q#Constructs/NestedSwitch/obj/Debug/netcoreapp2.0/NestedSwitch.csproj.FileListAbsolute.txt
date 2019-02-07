@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/bin/Debug/netcoreapp2.0/NestedSwitch.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/bin/Debug/netcoreapp2.0/NestedSwitch.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/bin/Debug/netcoreapp2.0/NestedSwitch.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/bin/Debug/netcoreapp2.0/NestedSwitch.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/bin/Debug/netcoreapp2.0/NestedSwitch.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/obj/Debug/netcoreapp2.0/NestedSwitch.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/obj/Debug/netcoreapp2.0/NestedSwitch.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/obj/Debug/netcoreapp2.0/NestedSwitch.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/obj/Debug/netcoreapp2.0/NestedSwitch.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/obj/Debug/netcoreapp2.0/NestedSwitch.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter2/Q#Constructs/NestedSwitch/obj/Debug/netcoreapp2.0/NestedSwitch.pdb
