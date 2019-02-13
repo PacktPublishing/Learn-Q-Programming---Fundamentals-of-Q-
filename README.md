@@ -1,7 +1,7 @@
 # Learn-Q-Programming---Fundamentals-of-Q-
 Learn Q# Programming - Fundamentals of Q#
 
-![alt text](https://github.com/bhagvank/arc/blob/master/microsoft_quantum.png)
+![alt text](https://github.com/bhagvank/arc/blob/master/Learn%20Q%23%20Programming_%20Mock%20Cover.png)
 
 
 ## Subtitle: 
@@ -33,3 +33,11 @@ Explore Q# language and libraries that will help you Design, Implement, and Anal
 ![alt text](https://avatars1.githubusercontent.com/u/2901756?s=96&v=4)
 
 Bhagvan Kommadi, Founder, Architect Corner has around 18 years experience in the industry ranging from large scale enterprise development to incubating software product startups. He has done Masters in Industrial Systems Engineering at Georgia Institute of Technology (1997) and Bachelors in Aerospace Engineering from Indian Institute of Technology, Madras (1993). Bhagvan is member of IFX forum and an Individual member of Oracle JCP. He has experience in building high transactional applications using Java, C, C++, C#, Python, Go, Ruby and JavaScript frameworks. Bhagvan reviewed a Packt bool- building-serverless-python-web-services- zappa. He founded Quantica Computacao, the first quantum computing startup in India. Bhagvan has engineered and developed simulators and tools in the area of quantum technology using IBM Q, Microsoft Q# and Google QScript. Company's focus is on developing quantum cryptographic tools which will be able to provide quantum proof data security, which will help the banking institution to protect their transactions.
+
+![alt text](http://www.quanticacomputacao.com/images/prao.jpg)
+
+M.V.Panduranga Rao is Head and Associate Professor in CSE, IIT Hyderabad. His research interests lie in theoretical computer science. He did his Phd in quantum computing at Indian Institute of Science, Bangalore. In Theoretical Computer Science, He is interested in computational complexity, randomized algorithms and quantum computing. He has carried out research in quantum automata theory, algorithms and quantum cryptography in the past. He is also interested in formal methods, particularly model checking for hybrid and reactive systems and verification of security protocols.
+
+<img src="http://www.quanticacomputacao.com/images/team/2.jpg" width="100" height="150" title="Aneesh">
+
+Aneesh K Johnny is a PhD scholar in the Department of Applied Mechanics, Indian Institute of Technology, Madras. He is a part of Micro and Nanoscale Transport Laboratory, doing research in nanofluidic transport. He did his masters from APJ Abdhul Kalam Technological University, Kerala in Thermal Power Engineering and Bachelors from Mahatma Gandhi University, Kerala in Mechanical Engineering. Aneesh is the co-founder and Product Manager of Quantica Computacao. His area of interests are Molecular Dynamics, Quantum Computing and Statistical Mechanics. He is one of the architects of Alchemy, an in-development quantum computing simulator from Quantica Computacao, and involved in developing algorithms for quantum cryptography.
