@@ -1,5 +1,5 @@
-# Learn-Q-Programming---Fundamentals-of-Q-
-Learn Q# Programming - Fundamentals of Q#
+# Learn-Q-Programming
+Learn Q# Programming
 
 ![alt text](https://github.com/bhagvank/arc/blob/master/Learn%20Q%23%20Programming_%20Mock%20Cover.png)
 
