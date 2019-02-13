@@ -13,7 +13,7 @@ namespace Grovers
     {
         static void Main(string[] args)
         {
-            
+
             int successfulCnt = ExecuteSearchAlgorithm(100,20);
             successfulCnt = ExecuteSearchAlgorithm(100, 3);
             successfulCnt = ExecuteSearchAlgorithm(100, 2);
@@ -28,18 +28,18 @@ namespace Grovers
 
             using (var sim = new QuantumSimulator(throwOnReleasingQubitsNotInZeroState: true))
             {
-                 
+
                 int nDatabaseQubits = 8;
                 var databaseSize = Math.Pow(2.0, nDatabaseQubits);
 
                 QArray<long> markedElements = new QArray<long>() {23};//{ 0, 39, 101, 234 }};
 
-                
+
                 int nIterations = groverIterations;
 
                 for (int i = 0; i < repeats; ++i)
                 {
-                      
+
                     var task = ExecuteGroversAlgorithm.Run(sim, markedElements, nIterations, nDatabaseQubits);
 
                     var result = task.Result;
@@ -52,7 +52,7 @@ namespace Grovers
             }
 
             Console.WriteLine(
-                $"Grover algorithm results iteration {groverIterations}: {successfulCount} of {repeats} had the desired result.");
+                $"Grover algorithm  iteration {groverIterations}: {successfulCount} of {repeats} consists of the desired result.");
             return successfulCount;
         }
     }

@@ -4,31 +4,29 @@
     open Microsoft.Quantum.Primitive;
     open Microsoft.Quantum.Canon;
 
-    // GetDataFromInts Operation 
+    // GetDataFromInts Operation
     /// # Summary
-    /// Database oracle `D` constructed from classical database.
-    /// 
+    /// creates a Database oracle
+    ///
     /// # Parameters
     /// ## markedElements
-    /// Indices to marked elements in database.
+    /// marked Elements array
     /// ## markedQubit
-    /// Qubit that indicated whether database element is marked.
+    /// marked Qubit
     /// ## databaseRegister
-    /// A register of n qubits initially in the |00…0〉 state.
-    /// 
+    /// qubits register having n elements
+    /// # Returns
+    /// an Unit
 
     operation GetDataFromInts(markedElements : Int[],  markedQubit: Qubit, databaseRegister: Qubit[]) : Unit
     {
         body(...) {
             let nMarked = Length(markedElements);
             for (idxMarked in 0..nMarked - 1) {
-                // Note: As X accepts a Qubit, and ControlledOnInt only 
-                // accepts Qubit[], we use ApplyToEachCA(X, _) which accepts 
-                // Qubit[] even though the target is only 1 Qubit.
                 (ControlledOnInt(markedElements[idxMarked], ApplyToEachCA(X, _)))(databaseRegister, [markedQubit]);
             }
 
-        }	
+        }
         adjoint auto;
         controlled auto;
         adjoint controlled auto;
@@ -36,18 +34,17 @@
 
     // SetupGroverStateOracle Operation
     /// # Summary
-    /// Preparation of start state from database oracle and oracle `U` that 
-    /// creates a uniform superposition over database indices.
-    /// 
+    /// GroverState Oralce is setup by this operation
+    ///
     /// # Parameters
     /// ## markedElements
-    /// Indices to marked elements in database.
+    /// makred Elements array
     /// ## idxMarkedQubit
-    /// Index to `MarkedQubit`.
+    /// MarkedQubit index
     /// ## startQubits
-    /// The collection of the n+1 qubits `MarkedQubit` and `databaseRegister`
-    /// initially in the |00…0〉 state.
-    /// 
+    /// start Qubits array
+    /// # Returns
+    /// an Unit
     operation SetupGroverStateOracleImpl(markedElements : Int[], idxMarkedQubit: Int , startQubits: Qubit[]) : Unit
     {
         body(...) {
@@ -55,7 +52,7 @@
             let databaseRegister = Exclude([idxMarkedQubit], startQubits);
 
             ApplyToEachCA(H, databaseRegister);
-      
+
             GetDataFromInts(markedElements, flagQubit, databaseRegister);
 
              }
@@ -65,18 +62,19 @@
         adjoint controlled auto;
     }
 
+    // setupGroverStateOracle function
     /// # Summary
-    /// `StateOracle` type for the preparation of a start state that has a 
-    /// marked qubit entangled with some desired state in the database 
-    /// register.
+    /// GroverState Oralce is setup by this operation
     ///
     /// # Parameters
     /// ## markedElements
-    /// Indices to marked elements in database.
-    ///
+    /// makred Elements array
+    /// ## idxMarkedQubit
+    /// MarkedQubit index
+    /// ## startQubits
+    /// start Qubits array
     /// # Returns
-    /// A `StateOracle` type with signature 
-    /// ((Int, Qubit[]) => (): Adjoint, Controlled).
+    /// State Oracle
     function SetupGroverStateOracle(markedElements : Int[]) : StateOracle
     {
         return StateOracle(SetupGroverStateOracleImpl(markedElements, _, _));
@@ -84,67 +82,60 @@
 
     // Execute Search function
     /// # Summary
-    /// Grover's search algorithm using library functions.
-    ///
+    /// function which has Grover's search technique
     /// # Parameters
     /// ## markedElements
-    /// Indices to marked elements in database.
+    /// markedElements array
     /// ## nIterations
-    /// Number of iterations of the Grover iteration to apply.
+    /// Count of Grover iterations
     /// ## idxMarkedQubit
-    /// Index to `MarkedQubit`.
-    ///
+    ///  MarkedQubit Index
     /// # Returns
-    /// Unitary implementing Grover's search algorithm.
-    ///
- 
+    /// Unitary  Operation
+
     function ExecuteSearch( markedElements: Int[], nIterations: Int, idxMarkedQubit: Int) : (Qubit[] => Unit : Adjoint, Controlled)
     {
         return AmpAmpByOracle(nIterations, SetupGroverStateOracle(markedElements), idxMarkedQubit);
     }
-    
-    // ExecuteGroversAlgorithm Operation
+
+    // Execute Search function
     /// # Summary
-    /// Performs quantum search for the marked elements and returns an index
-    /// to the found element in integer format. 
-    ///
+    /// function which has Grover's search technique
     /// # Parameters
     /// ## markedElements
-    /// Indices to marked elements in database.
+    /// markedElements array
     /// ## nIterations
-    /// Number of applications of the Grover iterate (RS · RM).
-    /// ## nDatabaseQubits
-    /// Number of qubits in the database register. 
-    ///
+    /// Count of Grover iterations
+    /// ## idxMarkedQubit
+    ///  MarkedQubit Index
     /// # Returns
-    /// Measurement outcome of marked Qubit and measurement outcomes of 
-    /// the database register converted to an integer.
+    /// Result and count of elements
     operation ExecuteGroversAlgorithm( markedElements: Int[], nIterations : Int, nDatabaseQubits : Int) : (Result,Int) {
         body(...){
-            
+
             mutable resultSuccess = Zero;
             mutable numberElement = 0;
-            
+
             using (qubits = Qubit[nDatabaseQubits+1]) {
-                
-                
+
+
                 let markedQubit = qubits[0];
 
-                
+
                 let databaseRegister = qubits[1..nDatabaseQubits];
 
-                
+
                 (ExecuteSearch( markedElements, nIterations, 0))(qubits);
 
-                
+
                 set resultSuccess = M(markedQubit);
 
-                
+
                 let resultElement = MultiM(databaseRegister);
 
                 set numberElement = PositiveIntFromResultArr(resultElement);
 
-                
+
                 ResetAll(qubits);
             }
 
@@ -152,5 +143,3 @@
         }
     }
 }
-
-

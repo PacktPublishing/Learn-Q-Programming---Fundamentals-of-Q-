@@ -1,4 +1,7 @@
-﻿using System;
+/////////////////////////////////////////////////////////////////////
+// This file contains the driver class.
+//////////////////////////////////////////////////////////////////////
+using System;
 
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.Simulation.Simulators;
@@ -11,7 +14,7 @@ namespace FirstQuantum
         {
             using (var qsim = new QuantumSimulator())
             {
-                
+
                 Result[] initials = new Result[] { Result.Zero, Result.One };
                 foreach (Result initial in initials)
                 {
