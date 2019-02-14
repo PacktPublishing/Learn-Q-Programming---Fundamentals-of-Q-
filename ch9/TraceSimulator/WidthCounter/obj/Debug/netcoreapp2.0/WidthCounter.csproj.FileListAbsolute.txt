@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/bin/Debug/netcoreapp2.0/WidthCounter.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/bin/Debug/netcoreapp2.0/WidthCounter.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/bin/Debug/netcoreapp2.0/WidthCounter.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/bin/Debug/netcoreapp2.0/WidthCounter.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/bin/Debug/netcoreapp2.0/WidthCounter.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/obj/Debug/netcoreapp2.0/WidthCounter.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/obj/Debug/netcoreapp2.0/WidthCounter.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/obj/Debug/netcoreapp2.0/WidthCounter.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/obj/Debug/netcoreapp2.0/WidthCounter.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/obj/Debug/netcoreapp2.0/WidthCounter.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/WidthCounter/obj/Debug/netcoreapp2.0/WidthCounter.pdb

@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/bin/Debug/netcoreapp2.0/InvalidQubitsChecker.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/bin/Debug/netcoreapp2.0/InvalidQubitsChecker.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/bin/Debug/netcoreapp2.0/InvalidQubitsChecker.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/bin/Debug/netcoreapp2.0/InvalidQubitsChecker.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/bin/Debug/netcoreapp2.0/InvalidQubitsChecker.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/obj/Debug/netcoreapp2.0/InvalidQubitsChecker.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/obj/Debug/netcoreapp2.0/InvalidQubitsChecker.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/obj/Debug/netcoreapp2.0/InvalidQubitsChecker.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/obj/Debug/netcoreapp2.0/InvalidQubitsChecker.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/obj/Debug/netcoreapp2.0/InvalidQubitsChecker.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/InvalidQubitsChecker/obj/Debug/netcoreapp2.0/InvalidQubitsChecker.pdb

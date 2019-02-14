@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/obj/Debug/netcoreapp2.0/DepthChecker.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/obj/Debug/netcoreapp2.0/DepthChecker.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/obj/Debug/netcoreapp2.0/DepthChecker.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/obj/Debug/netcoreapp2.0/DepthChecker.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/bin/Debug/netcoreapp2.0/DepthChecker.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/bin/Debug/netcoreapp2.0/DepthChecker.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/bin/Debug/netcoreapp2.0/DepthChecker.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/bin/Debug/netcoreapp2.0/DepthChecker.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/bin/Debug/netcoreapp2.0/DepthChecker.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/obj/Debug/netcoreapp2.0/DepthChecker.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/DepthChecker/obj/Debug/netcoreapp2.0/DepthChecker.pdb

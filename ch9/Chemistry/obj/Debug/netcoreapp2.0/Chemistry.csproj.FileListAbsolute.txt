@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/obj/Debug/netcoreapp2.0/Chemistry.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/obj/Debug/netcoreapp2.0/Chemistry.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/obj/Debug/netcoreapp2.0/Chemistry.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/obj/Debug/netcoreapp2.0/Chemistry.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/bin/Debug/netcoreapp2.0/Chemistry.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/bin/Debug/netcoreapp2.0/Chemistry.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/bin/Debug/netcoreapp2.0/Chemistry.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/bin/Debug/netcoreapp2.0/Chemistry.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/bin/Debug/netcoreapp2.0/Chemistry.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/obj/Debug/netcoreapp2.0/Chemistry.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/Chemistry/obj/Debug/netcoreapp2.0/Chemistry.pdb

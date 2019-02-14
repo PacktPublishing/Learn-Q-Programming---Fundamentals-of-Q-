@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/obj/Debug/netcoreapp2.0/PrimitiveOperationsCounter.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/obj/Debug/netcoreapp2.0/PrimitiveOperationsCounter.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/obj/Debug/netcoreapp2.0/PrimitiveOperationsCounter.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/obj/Debug/netcoreapp2.0/PrimitiveOperationsCounter.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/bin/Debug/netcoreapp2.0/PrimitiveOperationsCounter.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/bin/Debug/netcoreapp2.0/PrimitiveOperationsCounter.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/bin/Debug/netcoreapp2.0/PrimitiveOperationsCounter.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/bin/Debug/netcoreapp2.0/PrimitiveOperationsCounter.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/bin/Debug/netcoreapp2.0/PrimitiveOperationsCounter.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/obj/Debug/netcoreapp2.0/PrimitiveOperationsCounter.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter9/TraceSimulator/PrimitiveOperationsCounter/obj/Debug/netcoreapp2.0/PrimitiveOperationsCounter.pdb
