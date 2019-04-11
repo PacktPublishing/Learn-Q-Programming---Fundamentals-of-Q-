@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/bin/Debug/netcoreapp2.0/CHSHGame.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/bin/Debug/netcoreapp2.0/CHSHGame.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/bin/Debug/netcoreapp2.0/CHSHGame.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/bin/Debug/netcoreapp2.0/CHSHGame.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/bin/Debug/netcoreapp2.0/CHSHGame.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/obj/Debug/netcoreapp2.0/CHSHGame.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/obj/Debug/netcoreapp2.0/CHSHGame.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/obj/Debug/netcoreapp2.0/CHSHGame.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/obj/Debug/netcoreapp2.0/CHSHGame.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/obj/Debug/netcoreapp2.0/CHSHGame.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter10/CHSHGame/obj/Debug/netcoreapp2.0/CHSHGame.pdb
