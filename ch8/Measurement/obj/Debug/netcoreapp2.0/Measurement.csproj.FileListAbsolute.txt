@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/bin/Debug/netcoreapp2.0/Measurement.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/bin/Debug/netcoreapp2.0/Measurement.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/bin/Debug/netcoreapp2.0/Measurement.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/bin/Debug/netcoreapp2.0/Measurement.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/bin/Debug/netcoreapp2.0/Measurement.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/obj/Debug/netcoreapp2.0/Measurement.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/obj/Debug/netcoreapp2.0/Measurement.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/obj/Debug/netcoreapp2.0/Measurement.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/obj/Debug/netcoreapp2.0/Measurement.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/obj/Debug/netcoreapp2.0/Measurement.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/Measurement/obj/Debug/netcoreapp2.0/Measurement.pdb

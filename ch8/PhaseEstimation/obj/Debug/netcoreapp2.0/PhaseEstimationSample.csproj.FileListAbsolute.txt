@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/bin/Debug/netcoreapp2.0/PhaseEstimationSample.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/bin/Debug/netcoreapp2.0/PhaseEstimationSample.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/bin/Debug/netcoreapp2.0/PhaseEstimationSample.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/bin/Debug/netcoreapp2.0/PhaseEstimationSample.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/bin/Debug/netcoreapp2.0/PhaseEstimationSample.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/obj/Debug/netcoreapp2.0/PhaseEstimationSample.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/obj/Debug/netcoreapp2.0/PhaseEstimationSample.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/obj/Debug/netcoreapp2.0/PhaseEstimationSample.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/obj/Debug/netcoreapp2.0/PhaseEstimationSample.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/obj/Debug/netcoreapp2.0/PhaseEstimationSample.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/PhaseEstimation/obj/Debug/netcoreapp2.0/PhaseEstimationSample.pdb

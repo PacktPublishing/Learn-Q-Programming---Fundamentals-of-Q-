@@ -1,0 +1,14 @@
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/BasicGates.deps.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/BasicGates.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/BasicGates.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/BasicGates.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/bin/Debug/netcoreapp2.1/BasicGates.pdb
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/obj/Debug/netcoreapp2.1/BasicGates.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/obj/Debug/netcoreapp2.1/BasicGates.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/obj/Debug/netcoreapp2.1/BasicGates.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/obj/Debug/netcoreapp2.1/BasicGates.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/obj/Debug/netcoreapp2.1/BasicGates.dll
+/Users/bhagvan.kommadi/Desktop/packt/Q#Book/Code/Chapter8/BasicGates/obj/Debug/netcoreapp2.1/BasicGates.pdb
